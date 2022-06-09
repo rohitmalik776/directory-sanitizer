@@ -7,3 +7,4 @@
 - [ ] Add Linux build.
 - [ ] Use Better error handling.
 - [ ] Add optional parameters while running to handle confirmation message.
+- [ ] Sign the build with a certificate.
